@@ -1,5 +1,7 @@
 # vue-boilerplate
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/zanjs/vue2-boilerplate.svg)](https://greenkeeper.io/)
+
 > Vue 2.0 boilerplate，based on webpack and es6，includes vuex，vue-router，vue-resource, vue-auth
 
 ## Build Setup
